@@ -1,0 +1,23 @@
+body{
+  background-image: url("./papel.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.business-card{
+  color: antiquewhite;
+}
+.ist{
+  color: deeppink;
+}
+.whts{
+  color: darkgreen;
+}
+
+.card{
+  background-color: black;
+}
+.card-text{
+  color: whitesmoke;
+}
+
+
